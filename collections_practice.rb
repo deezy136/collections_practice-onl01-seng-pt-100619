@@ -71,8 +71,6 @@ end
      # array.inject do |sum,x|
      #  sum + x
      # end
-end
-
 
 
 def add_s(array)
