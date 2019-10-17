@@ -73,7 +73,7 @@ end
      # end
 end
 
-sum_array([11,4,7,8,9,100,134]) #273
+
 
 def add_s(array)
   array.collect do |word|
@@ -85,4 +85,3 @@ def add_s(array)
   end
 end
 
-add_s(["hand","feet", "knee", "table"]) #["hands","feet", "knees", "tables"]
